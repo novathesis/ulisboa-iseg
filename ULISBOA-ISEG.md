@@ -1,8 +1,8 @@
-# Abstract: novathesis-ulisboa-iseg-v8.0.0
+# Abstract: novathesis-ulisboa-iseg-v8.0.1
 
 This is a customized LaTeX template for theses and reports at **Instituto Superior de Economia e Gestão da Universidade de Lisboa (ULISBOA ISEG)**, following the most recent [ULISBOA ISEG guidelines (in Portuguese)](https://www.iseg.ulisboa.pt/secretaria/informacoes-academicas/mestrados/trabalho-final-de-mestrado/linhas-de-orientacao-tfm/). 
 
-This template is a streamlined and fine-tuned version of the robust **NOVAthesis framework (v8.0.0)**, trimmed down and optimized to provide ULISBOA ISEG students with a streamlined experience, meeting ULISBOA ISEG's academic formatting standards without the complexity of the original multi-institution template. 
+This template is a streamlined and fine-tuned version of the robust **NOVAthesis framework (v8.0.1)**, trimmed down and optimized to provide ULISBOA ISEG students with a streamlined experience, meeting ULISBOA ISEG's academic formatting standards without the complexity of the original multi-institution template. 
 
 ### Key Features:
 
